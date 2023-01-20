@@ -1,0 +1,6 @@
+/* This is my version history file.
+*
+*  0.0.0 (01/19/2023): This is nothing but a simple template which makes a window, loops and follows the quit command.
+*/
+
+#define VERSION "0.0.0";
